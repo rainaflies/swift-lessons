@@ -1,5 +1,5 @@
 # RainaApp
 
-A simple "About Me" app for iPhone and Apple Watch.
+A simple "About Me" SwiftUI app for iPhone and Apple Watch.
 
-![Screenshot](Screenshot.png)
+<img src="Screenshot.png" width="500">
